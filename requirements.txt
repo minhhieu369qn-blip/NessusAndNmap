@@ -1,0 +1,12 @@
+streamlit>=1.30.0
+pandas>=2.0.0
+pyodbc>=5.0.0
+sqlalchemy>=2.0.0
+python-dotenv>=1.0.0
+defusedxml>=0.7.1
+google-genai>=1.0.0
+openai>=1.30.0
+plotly>=5.18.0
+openpyxl>=3.1.0
+requests>=2.31.0
+urllib3>=2.0.0
